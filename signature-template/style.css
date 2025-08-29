@@ -1,0 +1,118 @@
+html, body {
+  margin: 0;
+  height: 90%;
+  font-family: Arial, sans-serif;
+  background: rgb(79, 13, 74);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gmail-container {
+  width: 800px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  background: #fff;
+}
+
+.header {
+  background: rgb(79, 13, 74);
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.field {
+  border-bottom: 1px solid #eee;
+  padding: 8px 12px;
+  color: #666;
+}
+
+.mensagem {
+  padding: 15px 12px;
+  font-size: 14px;
+  line-height: 1.6em;
+  color: #2c2828;
+}
+
+.assinatura {
+  margin-top: 20px;
+}
+
+.assinatura table {
+  font-size: 14px;
+  line-height: 20px;
+  color: #000;
+  font-family: Arial, sans-serif;
+}
+
+.assinatura img {
+  display: block;
+}
+
+.name {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #0073e6;
+}
+
+.role, .phone {
+  margin: 0;
+  color: #555;
+}
+
+.website a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.rede-sociais {
+  margin-top: 6px;
+}
+
+.rede-sociais a {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.botoes-container {
+  padding: 12px;
+  border-top: 1px solid #eee;
+  background-color: #f9f9f9;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.btn {
+  padding: 6px 12px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 13px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.btn:hover {
+  background-color: #f0f0f0;
+}
+
+.btn.enviar {
+  background-color: rgb(79, 13, 74);
+  color: white;
+  border: none;
+}
+
+.btn.enviar:hover {
+  background-color: rgb(100, 20, 90);
+}
+
+.fonte {
+  font-family: Arial, sans-serif;
+}
+
