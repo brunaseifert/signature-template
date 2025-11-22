@@ -11,8 +11,3 @@ CSS3
 ## Objetivo
 
 Template criado para fins de demonstração UI/UX design e estilização com CSS.
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/signature-template.git
-
