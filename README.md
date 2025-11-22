@@ -1,7 +1,8 @@
 # Signature Template
 
-Ese projeto é um mockup (protótipo) da interface de composição de e-mails inspirado no Gmail, desenvolvido com **HTML** e **CSS**.  Apenas para simular uma nova mensagem com campos básicos, de uma assinatura profissional com imagem e redes sociais.
+Ese projeto é um mockup (protótipo) de assinaturas de e-mails desenvolvido com **HTML** e **CSS**.  Apenas para simular uma nova mensagem com campos básicos, de uma assinatura profissional com imagem e redes sociais.
 
+![signature](email.png)
 
 # Tecnologias Utilizadas
 
